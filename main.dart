@@ -24,7 +24,7 @@ Future<void> main() async {
   {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyAsmHN9qgiRzY_IZXfM_sEOvmCpG6Cz8ME",
+        apiKey: "Put the API",
         appId: "1:514884012730:web:cec93ef6a9de6affe75083",
         messagingSenderId: "514884012730",
         projectId: "insta-d9c9d",
